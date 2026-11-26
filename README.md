@@ -59,4 +59,4 @@ obstacle-avoiding-robot/
 Full project report: [docs/Project_Report.pdf](docs/Project_Report.pdf)
 
 ## Author
-Mohan Jandhyam
+Jandhyam Mohan Ganga
